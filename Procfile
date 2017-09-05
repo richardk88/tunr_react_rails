@@ -1,1 +1,1 @@
-web: run rails s
+web: rails s
